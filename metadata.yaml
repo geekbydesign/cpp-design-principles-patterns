@@ -1,0 +1,41 @@
+---
+title: "C++ Design Principles & Design Patterns"
+subtitle: "SOLID, GoF Patterns, Modern C++ Design Techniques and System Design"
+author: ""
+lang: en-US
+
+documentclass: article
+fontsize: 10pt
+
+geometry:
+  - top=18mm
+  - bottom=18mm
+  - left=20mm
+  - right=20mm
+
+toc: true
+toc-depth: 1
+toc-title: "Table of Contents"
+
+colorlinks: true
+linkcolor: black
+urlcolor: black
+
+header-includes:
+  - |
+    \usepackage{microtype}
+  - |
+    \usepackage{fvextra}
+  - |
+    \setlength{\parindent}{0pt}
+  - |
+    \setlength{\parskip}{4pt}
+  - |
+    \usepackage{titlesec}
+  - |
+    \titlespacing*{\section}{0pt}{14pt plus 3pt minus 2pt}{7pt}
+  - |
+    \titlespacing*{\subsection}{0pt}{9pt plus 2pt minus 2pt}{4pt}
+  - |
+    \titlespacing*{\subsubsection}{0pt}{7pt plus 2pt minus 1pt}{3pt}
+---

@@ -1,0 +1,10 @@
+# Treat text files as text
+* text=auto
+
+# Keep Markdown files with LF line endings
+*.md text eol=lf
+
+# Keep Git configuration files with LF line endings
+.gitattributes text eol=lf
+.gitignore text eol=lf
+```
